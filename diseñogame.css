@@ -12,7 +12,7 @@ body {
   }
 
   #TODO{
-    object-position: center;
+    object-position: 50% 50%;
   }
 
   .gameboard {
