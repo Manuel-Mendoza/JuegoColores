@@ -139,7 +139,7 @@ class Juego {
         };
 
     perdio() {
-        swal("Juego de Manuel", "Intentalo Nuevamente :(", "error")
+        swal("Colors Puzzle ", "Intentalo Nuevamente :(", "error")
         .then(() => {
             this.eliminarClic()
             this.inicializar()
